@@ -1,0 +1,14 @@
+/Users/emrahelis/Private_Constuctor/bin/Debug/net8.0/Private_Constuctor
+/Users/emrahelis/Private_Constuctor/bin/Debug/net8.0/Private_Constuctor.deps.json
+/Users/emrahelis/Private_Constuctor/bin/Debug/net8.0/Private_Constuctor.runtimeconfig.json
+/Users/emrahelis/Private_Constuctor/bin/Debug/net8.0/Private_Constuctor.dll
+/Users/emrahelis/Private_Constuctor/bin/Debug/net8.0/Private_Constuctor.pdb
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.AssemblyInfoInputs.cache
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.AssemblyInfo.cs
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.dll
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/refint/Private_Constuctor.dll
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.pdb
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/Private_Constuctor.genruntimeconfig.cache
+/Users/emrahelis/Private_Constuctor/obj/Debug/net8.0/ref/Private_Constuctor.dll
