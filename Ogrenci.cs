@@ -6,7 +6,14 @@ public class Ogrenci{
     public string Name;
 
     public int OkulNo;
-    public Ogrenci()
+
+
+    // default ctor, nesne üretilirken kullanılmaması sağlanabilir.
+    // default ctor'u dış dünyaya kapatmak için private keywordünü kullanıyoruz
+
+    // her ctor private işaretlenerek, dış dünyaya kapanabilir
+    // bunun kararını yazılımcı kişisi kendi tasarladığı plana göre uygulayabilir.!!!
+    private Ogrenci()
     {
         this.OkulNo=5;
     }

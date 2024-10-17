@@ -6,5 +6,11 @@
 
 
 Ogrenci o = new Ogrenci(5,"Mehmet");
+
+
+// defuult ctor private olduğu için, dış dünyadan erişilemez
+// aşağıdaki kod bloğu hata verecektir.
 Ogrenci o1 = new Ogrenci();
+
+
 Console.WriteLine(o1.Name);
